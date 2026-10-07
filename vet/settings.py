@@ -60,6 +60,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     "auth.apps.AuthConfig",
+    "phonenumber_field",
 
     "rest_framework",
     "drf_spectacular",

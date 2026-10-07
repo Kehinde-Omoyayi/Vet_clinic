@@ -17,3 +17,5 @@ bcrypt
 
 httpx
 gunicorn==26.2.0
+django-phonenumber-field==8.5.0
+phonenumbers==9.0.40
